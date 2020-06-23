@@ -1,0 +1,3 @@
+C:/Users/micha/Desktop/Sheridan/Sem4/C/Assignments/a2-michalzarnowski-991552312/cmake-build-debug/CMakeFiles/a2_michalzarnowski_991552312.dir
+C:/Users/micha/Desktop/Sheridan/Sem4/C/Assignments/a2-michalzarnowski-991552312/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/micha/Desktop/Sheridan/Sem4/C/Assignments/a2-michalzarnowski-991552312/cmake-build-debug/CMakeFiles/rebuild_cache.dir
